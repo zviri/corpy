@@ -18,7 +18,7 @@ python = "^3.7"
 # module, so whichever latest version is fine
 regex = "*"
 lazy = "^1.4"
-lxml = "^4.6.1"
+lxml = "^5.3.1"
 wordcloud = "^1.8.1"
 "ufal.morphodita" = "^1.10"
 "ufal.udpipe" = "^1.2"
